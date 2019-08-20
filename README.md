@@ -12,10 +12,10 @@ Tutorial : https://medium.com/@muhammet.arslan/how-to-create-a-rest-server-in-go
 ## Libraries
 
 - https://github.com/valyala/fasthttp
-- github.com/google/wire
-- github.com/fate-lovely/phi
-- github.com/joho/godotenv
-- github.com/kelseyhightower/envconfig
-- github.com/sirupsen/logrus
-- golang.org/x/sync
-- gopkg.in/yaml.v2
+- https://github.com/google/wire
+- https://github.com/fate-lovely/phi
+- https://github.com/joho/godotenv
+- https://github.com/kelseyhightower/envconfig
+- https://github.com/sirupsen/logrus
+- https://golang.org/x/sync
+- https://gopkg.in/yaml.v2
